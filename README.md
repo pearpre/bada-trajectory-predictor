@@ -1,4 +1,4 @@
-# Predictor de Trayectorias de Descenso — A320 / BADA 3.9
+# Predictor de Trayectorias de Descenso — A320 / BADA 
 
 Predictor de trayectorias punto-masa para la fase de descenso de un **Airbus A320-231**, basado en el modelo de rendimiento aeronáutico **BADA 3.9** (Base of Aircraft Data) de EUROCONTROL. Incluye análisis de incertidumbre mediante simulaciones de **Monte Carlo**.
 
@@ -117,7 +117,8 @@ bada-trajectory-predictor/
 
 ## Contexto
 
-Proyecto desarrollado en el marco de la asignatura de **Transporte, Navegación y Circulación Aérea** del Grado en Ingeniería Aeroespacial. Los coeficientes aerodinámicos y propulsivos corresponden a los ficheros OPF y APF de BADA 3.9 para el A320-231.
+Proyecto desarrollado en la asignatura de **Predicción, Sincronización y Optimización de Trayectorias** del Máster en Sistemas del Transporte Aéreo, ETSIAE — Universidad Politécnica de Madrid. 
+Los coeficientes aerodinámicos y propulsivos corresponden a los ficheros OPF y APF de BADA 3.9 para el A320-231.
 
 ## Licencia
 
